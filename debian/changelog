@@ -1,3 +1,9 @@
+os161-toolchain (1.1ubuntu1) trusty; urgency=medium
+
+  * Release for trusty. 
+
+ -- Geoffrey Challen <geoffrey.challen@gmail.com>  Tue, 08 Mar 2016 16:22:00 -0500
+
 os161-toolchain (1.1) trusty; urgency=medium
 
   * Include test161.
