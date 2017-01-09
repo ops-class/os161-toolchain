@@ -1,29 +1,5 @@
-os161-toolchain (1.1ubuntu1) trusty; urgency=medium
+os161-toolchain (1.0~xenial0) xenial; urgency=medium
 
-  * Release for trusty. 
+  * Rebooting change log and changing version number convention.
 
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Tue, 08 Mar 2016 16:22:00 -0500
-
-os161-toolchain (1.1) trusty; urgency=medium
-
-  * Include test161.
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Tue, 08 Mar 2016 16:07:56 -0500
-
-os161-toolchain (1.0-0ubuntu3) trusty; urgency=medium
-
-  * Trusty.
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Thu, 15 Jan 2015 20:01:13 -0500
-
-os161-toolchain (1.0-0ubuntu2) precise; urgency=medium
-
-  * Precise. 
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Thu, 15 Jan 2015 19:49:49 -0500
-
-os161-toolchain (1.0-0ubuntu1) precise; urgency=low
-
-  * First version
-
- -- Geoffrey Challen <geoffrey.challen@gmail.com>  Thu, 15 Jan 2015 19:46:41 -0500
+ -- Geoffrey Challen <geoffrey.challen@gmail.com>  Mon, 09 Jan 2017 15:18:36 -0500
