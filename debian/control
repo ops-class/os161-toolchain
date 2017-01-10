@@ -6,7 +6,7 @@ Homepage: https://www.ops-class.org/
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.7
 
-Package: opsclass-os161-toolchain
+Package: os161-toolchain
 Architecture: all
 Depends: ${misc:Depends}, binutils-mips-linux-os161, gcc-mips-linux-os161, gdb-mips-linux-os161, sys161, bmake, test161
 Description: ops-class.org OS/161 Toolchain
